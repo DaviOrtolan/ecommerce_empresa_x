@@ -34,3 +34,7 @@ Melhoria 3
 ### Imagem externa
 
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+### Links interessantes
+
+[Google](https://www.google.com)
