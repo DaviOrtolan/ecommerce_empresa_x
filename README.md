@@ -30,3 +30,7 @@ Melhoria 3
 ### Imagem local
 
 ![Imagem de código](images/code.jpg)
+
+### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
